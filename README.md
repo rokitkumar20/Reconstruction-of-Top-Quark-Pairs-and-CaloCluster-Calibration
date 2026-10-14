@@ -2,7 +2,7 @@
 
 # Top-Quark Pair Reconstruction & CaloCluster Calibration
 
-This repository contains the source code and documentation for an academic machine learning project focused on high-energy physics data.
+This repository contains the source code and documentation for an academic machine learning project, completed during my Master's studies, focused on high-energy physics data.
 
 ## Project Overview
 The core objective of this project was to reconstruct top-quark pairs and calibrate CaloClusters. To achieve this, I designed and implemented a Deep Neural Network (DNN) that utilizes a custom loss function to optimize reconstruction accuracy.
